@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DoOrDonut/static/css/main.6e399c2d.css",
+    "main.js": "/DoOrDonut/static/js/main.d2fac035.js",
+    "static/js/453.eeb667f6.chunk.js": "/DoOrDonut/static/js/453.eeb667f6.chunk.js",
+    "static/media/bg.jpg": "/DoOrDonut/static/media/bg.af2626b7cba6d8d04181.jpg",
+    "index.html": "/DoOrDonut/index.html",
+    "main.6e399c2d.css.map": "/DoOrDonut/static/css/main.6e399c2d.css.map",
+    "main.d2fac035.js.map": "/DoOrDonut/static/js/main.d2fac035.js.map",
+    "453.eeb667f6.chunk.js.map": "/DoOrDonut/static/js/453.eeb667f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e399c2d.css",
+    "static/js/main.d2fac035.js"
+  ]
+}
